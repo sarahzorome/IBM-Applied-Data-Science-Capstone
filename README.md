@@ -13,7 +13,7 @@ I assumed the role of a Data Scientist working for a startup intending to compet
 2. [**Data Collection with Web Scraping**](https://github.com/sarahzorome/IBM-Applied-Data-Science-Capstone/blob/main/Data%20Collection%20with%20Web%20Scraping.ipynb)
 3. [**Data Wrangling**](https://github.com/sarahzorome/IBM-Applied-Data-Science-Capstone/blob/main/Data%20Wrangling.ipynb)
 4. [**Exploratory Data Analysis (EDA) with SQL**](https://github.com/sarahzorome/IBM-Applied-Data-Science-Capstone/blob/main/EDA%20with%20SQL.ipynb)
-5. [**EDA with Visulaization**](https://github.com/sarahzorome/IBM-Applied-Data-Science-Capstone/blob/main/EDA%20with%20Visualization.ipynb)
+5. [**EDA with Visualization**](https://github.com/sarahzorome/IBM-Applied-Data-Science-Capstone/blob/main/EDA%20with%20Visualization.ipynb)
 6. [**Interactive Visual Analytics with Folium**](https://github.com/sarahzorome/IBM-Applied-Data-Science-Capstone/blob/main/Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
 7. [**Dashboard Application with Plotly Dash (Code)**](https://github.com/sarahzorome/IBM-Applied-Data-Science-Capstone/blob/main/Interactive%20Dashboard%20with%20Ploty%20Dash.py)
 8. [**Predictive Analysis with Machine Learning**](https://github.com/sarahzorome/IBM-Applied-Data-Science-Capstone/blob/main/Machine%20Learning%20Prediction.ipynb)
